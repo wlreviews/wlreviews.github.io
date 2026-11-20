@@ -16,19 +16,29 @@ What we don't do: promise pounds lost or a timeframe for results; publish testim
 
 https://wlreviews.github.io/ww-vs-noom.html
 
-Status: outline published 2026-11-20, with opening paragraphs. Full text to follow once the buyer persona and keyword checks are done.
+Status: published 2026-11-20. Full text live, about 5,350 words, 18 FAQs. Prices and trial terms checked 20 November 2026 against official pages.
 
-Short answer: WeightWatchers and Noom are both behaviour-change programs, but they work differently. WeightWatchers is built around its points system and community; Noom is built around short psychology-based lessons and food colour categories. Which one fits depends on whether you want group structure or daily lessons, and on price — current price and trial terms for both programs are still to be verified against their official pages before a recommendation is published.
+Short answer: WeightWatchers and Noom are both behaviour-change programs, but they work differently. WeightWatchers is built around its Points system and workshops; Noom is built around short psychology-based lessons and food colour categories. MyFitnessPal is the third option: a tracker, not a program.
 
-Sections: How we compare; What Noom is; What WeightWatchers is; What MyFitnessPal is, and why it is here; Price and free trial; What a typical day looks like; Who each program may suit — and who it may not; Strengths and weaknesses; Common objections, answered; Our recommendation (to be finalised after verification).
+Verified prices (20 November 2026): Noom $70 a month, or $169 for 4 months / $209 for 12 months paid up front, 7-day initial trial; WeightWatchers Core from $12 a month, Core+ from $20 a month (12-month plans; the Core+ offer ends 22 November 2026); MyFitnessPal Premium $19.99 a month or $79.99 a year, 7-day free Premium pass.
 
-Comparison table (at a glance): price, free trial, how food is tracked, coaching, cancelling — all price, trial, coaching and cancellation cells read "To be verified". Food tracking: WeightWatchers uses a points system; Noom uses food colour categories; MyFitnessPal counts calories and nutrients.
+Sections: How we compare; What Noom is; What WeightWatchers is; What MyFitnessPal is, and why it is here; Price and free trial; What a typical day looks like; Who each program may suit — and who it may not; Strengths and weaknesses; Common objections, answered; Our recommendation (published, with the recommended program's weaknesses named).
 
-Frequently asked questions:
+Frequently asked questions: 18, covering price, trial, cancellation, exercise, food colour system, and which program fits which reader.
 
-1. Do I need to exercise to use Noom? — Noom describes itself as a behaviour-change program rather than an exercise program. Whether exercise is required, and how activity is treated inside the app, is a program detail we are verifying against Noom's official pages.
-2. Does Noom offer a free trial? — To be verified. Trial length and terms change, so we check them against Noom's official pages on the day of writing.
-3. Which is better, Noom or WeightWatchers? — It depends on fit. WeightWatchers is built around its points system and community; Noom is built around psychology-based lessons and food colour categories. Neither suits everyone.
+## Hub B: The Complete Noom Guide
+
+https://wlreviews.github.io/noom-guide.html
+
+Status: published 2026-11-20. Full text live, about 4,350 words, 8 FAQs. Prices checked 20 November 2026 against Noom's official pages.
+
+Short answer: Noom is a behaviour-change weight-loss app built around daily psychology lessons, a colour-coded food system (green, yellow, orange), and a goal coach. It costs $70 a month on the shortest plan and $209 for 12 months paid up front, and every plan starts with a 7-day initial trial.
+
+Sections: What is Noom?; How much does Noom cost? (all twelve plans, $70 to $209); How Noom works, day by day (lessons, coaching, food logging, calorie budget, weigh-ins, exercise); The food colour system: green, yellow, orange (30% / 45% / 25%); Who Noom may suit — and who it may not; Noom vs WeightWatchers and MyFitnessPal (short, links to the hub comparison); Strengths and weaknesses; Common objections, answered; Our verdict; Frequently asked questions (8); Sources.
+
+Still to be verified (labelled in the article): Noom trial fee (if any) and whether the trial requires a card; exact cancellation steps; coach reply speed and whether coaching is one-to-one; shift-work-specific guidance.
+
+Affiliate links: none on this page (stated in the article and footer).
 
 ## About and disclosure
 
@@ -46,7 +56,6 @@ Contact: piaccte@gmail.com. Pinterest: https://www.pinterest.com/piaccte/. YouTu
 
 ## Planned articles
 
-- Noom pricing and free trial, checked — current price, trial terms, and cancellation, verified against Noom's official pages on the day of writing.
 - Noom vs MyFitnessPal: behaviour change or calorie tracking? — two different jobs: one teaches habits, the other counts.
 - Can you use Noom without exercising? — one question, answered first.
 - WeightWatchers vs MyFitnessPal: points or free tracking? — for readers who want structure but are not sure they want to pay for it.
