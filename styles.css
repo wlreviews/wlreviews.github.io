@@ -1,0 +1,453 @@
+/* Honest Weight Loss Reviews — shared stylesheet
+   Design tokens (see DESIGN.md): paper #F7F9F7, ink #1C2B27,
+   pine #1F6B54, tint #E7EFEA, sage #6B7A72, amber #B7791F.
+   Mobile first. No gradients, no shadows, no card kit. */
+
+:root {
+  --paper: #f7f9f7;
+  --ink: #1c2b27;
+  --pine: #1f6b54;
+  --tint: #e7efea;
+  --sage: #6b7a72;
+  --amber: #b7791f;
+  --hairline: rgba(28, 43, 39, 0.16);
+  --measure: 68ch;
+  --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+  --font-body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 1.0625rem;
+  line-height: 1.65;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 1.75rem;
+  margin: 0 0 0.75rem;
+}
+
+h2 {
+  font-size: 1.35rem;
+  margin: 2.5rem 0 0.75rem;
+}
+
+h3 {
+  font-size: 1.15rem;
+  margin: 1.75rem 0 0.5rem;
+}
+
+p {
+  margin: 0 0 1rem;
+}
+
+ul,
+ol {
+  margin: 0 0 1rem;
+  padding-left: 1.25rem;
+}
+
+li {
+  margin-bottom: 0.375rem;
+}
+
+a {
+  color: var(--pine);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+a:hover {
+  color: var(--ink);
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 3px solid var(--pine);
+  outline-offset: 2px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: -4rem;
+  background: var(--ink);
+  color: var(--paper);
+  padding: 0.5rem 1rem;
+  z-index: 10;
+}
+
+.skip-link:focus {
+  top: 1rem;
+  color: var(--paper);
+}
+
+.page {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+/* Header */
+.site-header {
+  border-bottom: 1px solid var(--hairline);
+}
+
+.site-header .page {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.25rem 1.5rem;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
+
+.wordmark {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.25rem;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.wordmark:hover {
+  color: var(--pine);
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.25rem;
+  margin-left: auto;
+}
+
+.site-nav a {
+  color: var(--ink);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.site-nav a:hover {
+  color: var(--pine);
+  text-decoration: underline;
+}
+
+.site-nav a[aria-current="page"] {
+  color: var(--pine);
+  text-decoration: underline;
+}
+
+/* Homepage statement */
+.statement {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 2rem;
+  line-height: 1.15;
+  margin: 3rem 0 1rem;
+}
+
+.lede {
+  font-size: 1.15rem;
+  line-height: 1.6;
+  margin-bottom: 2.5rem;
+}
+
+/* What we do / what we don't do */
+.do-dont {
+  display: grid;
+  gap: 1.5rem;
+  border-top: 1px solid var(--hairline);
+  border-bottom: 1px solid var(--hairline);
+  padding: 1.75rem 0;
+  margin-bottom: 2.5rem;
+}
+
+.do-dont h2 {
+  font-size: 1.15rem;
+  margin: 0 0 0.75rem;
+}
+
+.do-dont ul {
+  margin-bottom: 0;
+}
+
+/* Article index: ruled rows, not cards */
+.article-index {
+  margin-bottom: 2.5rem;
+}
+
+.article-index h2 {
+  margin-top: 0;
+}
+
+.index-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--hairline);
+}
+
+.index-row {
+  display: grid;
+  gap: 0.125rem 1rem;
+  padding: 1.125rem 0;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.index-row h3 {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.index-row h3 a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.index-row h3 a:hover {
+  color: var(--pine);
+  text-decoration: underline;
+}
+
+.index-row p {
+  margin: 0;
+  color: var(--ink);
+}
+
+.status {
+  font-size: 0.875rem;
+  color: var(--sage);
+  white-space: nowrap;
+}
+
+.status-published {
+  color: var(--pine);
+}
+
+/* Callouts and verification flags */
+.callout {
+  background: var(--tint);
+  border-left: 3px solid var(--pine);
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.callout p:last-child {
+  margin-bottom: 0;
+}
+
+.callout .callout-label {
+  font-weight: 600;
+  margin-bottom: 0.375rem;
+}
+
+.flag {
+  color: var(--amber);
+  font-weight: 600;
+}
+
+.flag-note {
+  background: transparent;
+  border-left: 3px solid var(--amber);
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.flag-note p:last-child {
+  margin-bottom: 0;
+}
+
+/* Comparison table */
+.table-wrap {
+  overflow-x: auto;
+  margin: 1.5rem 0;
+  border-top: 1px solid var(--hairline);
+  border-bottom: 1px solid var(--hairline);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+caption {
+  text-align: left;
+  font-weight: 600;
+  padding: 0.75rem 0;
+}
+
+th,
+td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.75rem 0.75rem 0.75rem 0;
+  border-bottom: 1px solid var(--hairline);
+}
+
+th {
+  font-weight: 600;
+}
+
+tr:last-child th,
+tr:last-child td {
+  border-bottom: none;
+}
+
+/* Article meta line */
+.article-meta {
+  color: var(--sage);
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+
+/* FAQ */
+.faq-list h3 {
+  font-size: 1.15rem;
+}
+
+/* Email box */
+.email-box {
+  border-top: 1px solid var(--hairline);
+  padding: 2rem 0 2.5rem;
+}
+
+.email-box h2 {
+  margin-top: 0;
+}
+
+.email-form {
+  display: grid;
+  gap: 0.75rem;
+  max-width: 28rem;
+  margin-top: 1rem;
+}
+
+.email-form label {
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.email-form input[type="email"] {
+  font: inherit;
+  padding: 0.625rem 0.75rem;
+  border: 1px solid var(--ink);
+  border-radius: 0;
+  background: #fff;
+  width: 100%;
+}
+
+.email-form button {
+  font: inherit;
+  font-weight: 600;
+  padding: 0.625rem 1.25rem;
+  border: 1px solid var(--pine);
+  border-radius: 0;
+  background: var(--pine);
+  color: #fff;
+  cursor: pointer;
+  justify-self: start;
+}
+
+.email-form button:hover {
+  background: var(--ink);
+  border-color: var(--ink);
+}
+
+.form-note {
+  font-size: 0.875rem;
+  color: var(--sage);
+  margin-bottom: 0;
+}
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid var(--hairline);
+  padding: 2rem 0 2.5rem;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.site-footer .disclosure {
+  margin-bottom: 1rem;
+}
+
+.footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.footer-nav a {
+  color: var(--ink);
+}
+
+.site-footer .fine-print {
+  color: var(--sage);
+  margin-bottom: 0;
+}
+
+/* Wider screens */
+@media (min-width: 40rem) {
+  .statement {
+    font-size: 2.75rem;
+  }
+
+  .do-dont {
+    grid-template-columns: 1fr 1fr;
+    gap: 2.5rem;
+  }
+
+  .do-dont .dont-col {
+    border-left: 1px solid var(--hairline);
+    padding-left: 2.5rem;
+  }
+
+  .index-row {
+    grid-template-columns: 1fr auto;
+    align-items: baseline;
+  }
+
+  .index-row p {
+    grid-column: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition: none !important;
+    animation: none !important;
+  }
+}

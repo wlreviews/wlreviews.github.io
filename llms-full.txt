@@ -1,0 +1,52 @@
+# Honest Weight Loss Reviews — full site text
+
+> Independent reviews of behaviour-change weight-loss apps and meal plans for adults in the United States (18+). No promises about results, no testimonials, no invented figures. Every price and trial term is checked against official pages or labelled "To be verified".
+
+## Home
+
+https://wlreviews.github.io/
+
+Positioning: "Weight-loss apps, reviewed the slow way." We compare behaviour-change apps and meal plans on price, method, and fit — checking every figure against the official page before we print it. No promises about results, no before-and-after stories, no invented reviews.
+
+What we do: compare programs side by side, including a third option; check price, trial terms, and features against official pages before publishing; say plainly who a program may suit — and who it may not; label anything unverified as "To be verified" instead of guessing.
+
+What we don't do: promise pounds lost or a timeframe for results; publish testimonials or before-and-after stories; recommend weight-loss products to anyone under 18; write about GLP-1 medication programs or weight-loss patches.
+
+## Hub article: WeightWatchers vs Noom — an honest comparison
+
+https://wlreviews.github.io/ww-vs-noom.html
+
+Status: outline published 2026-11-20, with opening paragraphs. Full text to follow once the buyer persona and keyword checks are done.
+
+Short answer: WeightWatchers and Noom are both behaviour-change programs, but they work differently. WeightWatchers is built around its points system and community; Noom is built around short psychology-based lessons and food colour categories. Which one fits depends on whether you want group structure or daily lessons, and on price — current price and trial terms for both programs are still to be verified against their official pages before a recommendation is published.
+
+Sections: How we compare; What Noom is; What WeightWatchers is; What MyFitnessPal is, and why it is here; Price and free trial; What a typical day looks like; Who each program may suit — and who it may not; Strengths and weaknesses; Common objections, answered; Our recommendation (to be finalised after verification).
+
+Comparison table (at a glance): price, free trial, how food is tracked, coaching, cancelling — all price, trial, coaching and cancellation cells read "To be verified". Food tracking: WeightWatchers uses a points system; Noom uses food colour categories; MyFitnessPal counts calories and nutrients.
+
+Frequently asked questions:
+
+1. Do I need to exercise to use Noom? — Noom describes itself as a behaviour-change program rather than an exercise program. Whether exercise is required, and how activity is treated inside the app, is a program detail we are verifying against Noom's official pages.
+2. Does Noom offer a free trial? — To be verified. Trial length and terms change, so we check them against Noom's official pages on the day of writing.
+3. Which is better, Noom or WeightWatchers? — It depends on fit. WeightWatchers is built around its points system and community; Noom is built around psychology-based lessons and food colour categories. Neither suits everyone.
+
+## About and disclosure
+
+https://wlreviews.github.io/about.html
+
+Method: three options per comparison, same five points (price and trial terms, daily use, coaching and support, food tracking, cancelling), figures checked against official pages on the day of writing, real weaknesses listed, a second check before publishing, no star ratings.
+
+Affiliate disclosure: Honest Weight Loss Reviews may earn a commission if you buy through a link on this site, at no extra cost to you. Commission does not change what we write.
+
+For adults only: this site is written for adults aged 18 and over. We do not promote weight-loss products to anyone under 18.
+
+What we don't do: promise pounds lost or a timeframe; publish testimonials or before-and-after stories; cover GLP-1 medication programs, weight-loss patches, or supplements of unknown origin; publish AI-generated content presented as a real person's experience.
+
+Contact: piaccte@gmail.com. Pinterest: https://www.pinterest.com/piaccte/. YouTube: https://www.youtube.com/@honestweightlossreviews.
+
+## Planned articles
+
+- Noom pricing and free trial, checked — current price, trial terms, and cancellation, verified against Noom's official pages on the day of writing.
+- Noom vs MyFitnessPal: behaviour change or calorie tracking? — two different jobs: one teaches habits, the other counts.
+- Can you use Noom without exercising? — one question, answered first.
+- WeightWatchers vs MyFitnessPal: points or free tracking? — for readers who want structure but are not sure they want to pay for it.
