@@ -11,10 +11,10 @@
 
 - [The Complete Noom Guide](https://wlreviews.github.io/noom-guide.html) — Noom in depth: all twelve prices, the 7-day trial, daily lessons and coaching, the food colour system, and who it suits. Published 2026-11-20; prices checked 20 November 2026.
 - [WeightWatchers vs Noom: an honest comparison](https://wlreviews.github.io/ww-vs-noom.html) — Hub comparison. Published 2026-11-20; full text live, about 5,350 words, 18 FAQs. Prices and trial terms checked 20 November 2026.
+- [Noom vs MyFitnessPal: Behavior Change or Calorie Counting?](https://wlreviews.github.io/noom-vs-myfitnesspal.html) — Two different jobs: Noom teaches habits with daily lessons and a coach; MyFitnessPal counts calories with a tracker. Published 2026-11-22; about 4,310 words, 8 FAQs. Prices checked 22 November 2026.
 
 ## Planned articles
 
-- Noom vs MyFitnessPal: behaviour change or calorie tracking?
 - Can you use Noom without exercising?
 - WeightWatchers vs MyFitnessPal: points or free tracking?
 

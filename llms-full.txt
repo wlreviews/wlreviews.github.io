@@ -40,6 +40,22 @@ Still to be verified (labelled in the article): Noom trial fee (if any) and whet
 
 Affiliate links: none on this page (stated in the article and footer).
 
+## Noom vs MyFitnessPal: Behavior Change or Calorie Counting?
+
+https://wlreviews.github.io/noom-vs-myfitnesspal.html
+
+Status: published 2026-11-22. Full text live, about 4,310 words, 8 FAQs. Prices and trial terms checked 22 November 2026 against official pages.
+
+Short answer: Noom and MyFitnessPal solve different problems. Noom is a behaviour-change program: daily psychology lessons, a colour-coded food system, and a goal coach, for $70 a month or $209 a year paid up front. MyFitnessPal is a calorie-counting tracker: log food with barcode or voice search, track macros, and log exercise, with a free version and Premium at $49.99 a year.
+
+Verified prices (22 November 2026): Noom $70 a month, or $169 for 4 months / $209 for 12 months paid up front, 7-day initial trial; MyFitnessPal Premium $49.99 a year or $9.99 a month, 7-day free trial (auto-renews unless cancelled). MyFitnessPal prices changed between checks ($79.99 a year and $19.99 a month on 21 November 2026); Premium+ was not listed on the live page on 22 November 2026.
+
+Sections: Noom vs MyFitnessPal at a glance; The core difference: behaviour change vs calorie counting; How Noom works; How MyFitnessPal works; Food tracking compared; Coaching and support; Price compared; Free trials compared; Who each one suits — and who it does not; Strengths and weaknesses; Common objections, answered; Our verdict; Frequently asked questions (8); Sources.
+
+Still to be verified (labelled in the article): Noom trial fee (if any) and whether the trial requires a card; exact cancellation steps for Noom; coach reply speed and whether coaching is one-to-one.
+
+Affiliate links: none on this page (stated in the article and footer).
+
 ## About and disclosure
 
 https://wlreviews.github.io/about.html
@@ -56,6 +72,5 @@ Contact: piaccte@gmail.com. Pinterest: https://www.pinterest.com/piaccte/. YouTu
 
 ## Planned articles
 
-- Noom vs MyFitnessPal: behaviour change or calorie tracking? — two different jobs: one teaches habits, the other counts.
 - Can you use Noom without exercising? — one question, answered first.
 - WeightWatchers vs MyFitnessPal: points or free tracking? — for readers who want structure but are not sure they want to pay for it.
