@@ -120,6 +120,22 @@ Still to be verified (labelled in the article): Noom trial fee (if any) and whet
 
 Affiliate links: none on this page (stated in the article and footer).
 
+## Noom Monthly vs Annual Plans: Which One Costs Less?
+
+https://wlreviews.github.io/noom-monthly-vs-annual.html
+
+Status: published 2026-11-22. Full text live, about 2,089 words, 6 FAQs. Prices checked 22 November 2026 against Noom's official pages.
+
+Short answer: The annual plan is cheapest per month at $17.40, paid as $209 up front. Month-to-month is $70 a month. The 4-month plan most people pick is $169 up front, $42.25 a month. All plans are prepaid and auto-renew. The cheapest plan is only cheapest if you use it.
+
+Verified facts (22 November 2026): all 12 plan prices ($70 / $129 / $159 / $169 / $174 / $179 / $184 / $189 / $195 / $199 / $205 / $209); monthly averages are the plan price divided by its length (our arithmetic), except $70, $42.25, and $17.40 which Noom itself states; most Noom Weight users have a 4-month subscription; all plans billed up front and auto-renew; plan usually around 16 weeks; 7-day initial trial. Savings by arithmetic: 12 months $840 vs $209 = $631; 4 months $280 vs $169 = $111; 6 months $420 vs $179 = $241.
+
+Sections: The full price list (12-row table); The three plans that matter; The maths: what you actually save; Monthly: pay more, commit less; Annual: pay least per month, commit most; The 4-month plan: why most people pick it; What to watch before you pick; Our verdict; Frequently asked questions (6); Sources.
+
+Still to be verified (labelled in the article): Noom trial fee (if any) and whether the trial requires a card; exact cancellation steps for Noom; refund policy if you cancel mid-plan; how quickly a Noom coach replies and whether coaching is one-to-one.
+
+Affiliate links: none on this page (stated in the article and footer).
+
 ## About and disclosure
 
 https://wlreviews.github.io/about.html
