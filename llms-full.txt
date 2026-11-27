@@ -16,11 +16,11 @@ What we don't do: promise pounds lost or a timeframe for results; publish testim
 
 https://wlreviews.github.io/ww-vs-noom.html
 
-Status: published 2026-11-20. Full text live, about 5,350 words, 18 FAQs. Prices and trial terms checked 20 November 2026 against official pages.
+Status: published 2026-11-20. Full text live, about 5,350 words, 18 FAQs. Prices and trial terms checked 20 November 2026 against official pages; WeightWatchers prices checked 27 November 2026.
 
 Short answer: WeightWatchers and Noom are both behaviour-change programs, but they work differently. WeightWatchers is built around its Points system and workshops; Noom is built around short psychology-based lessons and food colour categories. MyFitnessPal is the third option: a tracker, not a program.
 
-Verified prices: Noom $70 a month, or $169 for 4 months / $209 for 12 months paid up front, 7-day initial trial (checked 20 November 2026); WeightWatchers Core from $12 a month, Core+ from $20 a month (12-month plans; the Core+ offer ends 22 November 2026); MyFitnessPal Premium $9.99 a month or $49.99 a year, 7-day free trial (auto-renews unless cancelled), checked live 22 November 2026. MyFitnessPal prices changed between checks ($79.99 a year and $19.99 a month on 21 November 2026); Premium+ was not listed on the live page on 22 November 2026.
+Verified prices: Noom $70 a month, or $169 for 4 months / $209 for 12 months paid up front, 7-day initial trial (checked 20 November 2026); WeightWatchers Core from $5 a month for the first month, then $10 a month, Core+ from $10 a month for the first month, then $20 a month (12-month plans; Black Friday offer ends 4 December 2026, checked 27 November 2026); MyFitnessPal Premium $9.99 a month or $49.99 a year, 7-day free trial (auto-renews unless cancelled), checked live 22 November 2026. MyFitnessPal prices changed between checks ($79.99 a year and $19.99 a month on 21 November 2026); Premium+ was not listed on the live page on 22 November 2026.
 
 Sections: How we compare; What Noom is; What WeightWatchers is; What MyFitnessPal is, and why it is here; Price and free trial; What a typical day looks like; Who each program may suit — and who it may not; Strengths and weaknesses; Common objections, answered; Our recommendation (published, with the recommended program's weaknesses named).
 
@@ -149,6 +149,186 @@ Verified facts (22 November 2026): logging everything is a key element of the pr
 Sections: The one rule: log everything; When to log; What happens when you log; What a day of logging looks like (assembled from the parts Noom describes, labelled as not one person's diary); The coach sees your log; Weigh-ins: daily is an option, not a rule; What logging does not do; Common mistakes; Our verdict; Frequently asked questions (6); Sources.
 
 Still to be verified (labelled in the article): Noom trial fee (if any) and whether the trial requires a card; exact cancellation steps for Noom; whether the app offers barcode scanning; how quickly a Noom coach replies and whether coaching is one-to-one.
+
+Affiliate links: none on this page (stated in the article and footer).
+
+## Is Noom Worth It? An Honest Cost vs Value Check (2026)
+
+https://wlreviews.github.io/noom-worth-it.html
+
+Status: published 2026-11-22. Full text live, about 2,278 words, 6 FAQs. Facts checked 22 November 2026 against Noom's official pages.
+
+Short answer: It depends on what you are buying. $70 a month, $169 for 4 months, or $209 a year. What you get: daily CBT lessons, a coach, food colors, logging, and weigh-ins. Worth it if you want structure and a coach and will use it for 16 weeks; not worth it if you want a set meal plan or the cheapest tracker.
+
+Verified facts (22 November 2026): Noom prices $70 a month / $169 for 4 months ($42.25 a month) / $209 a year ($17.40 a month), twelve plans, all billed up front and auto-renewing; 7-day initial trial; most users on a 4-month subscription; plan usually around 16 weeks; daily CBT lessons 5–15 minutes covering triggers, emotional and stress eating, what to do instead of reaching for a snack, mindfulness, choosing foods, genuine hunger versus "head hunger", and plateaus; coach trained in behavior-change science, looks at your food log, included at no extra cost; colors green/yellow/orange by calorie density, no food off limits; log everything after each meal or at end of day; daily weigh-in is an option and reduces scale anxiety; exercise from 200 steps a day, food first, syncs Apple Watch/Fitbit/Garmin; recipe database of thousands; group of Noomers. MyFitnessPal Premium $49.99 a year (checked live 22 November 2026; a text crawl the same day showed $79.99 — two live-browser reads agree on $49.99, see proof-kb open-questions.md).
+
+Sections: What Noom costs; What you actually get; What you don't get; Who it is worth it for; Who it is not worth it for; The cheapest way to find out; Noom vs the alternatives, in one paragraph; Our verdict; Frequently asked questions (6); Sources.
+
+Still to be verified (labelled in the article): Noom trial fee (if any) and whether the trial requires a card; exact cancellation steps for Noom; refund policy if you cancel mid-plan; how quickly a Noom coach replies and whether coaching is one-to-one; WeightWatchers prices (Black Friday offer ends 4 December 2026, checked 27 November 2026).
+
+Affiliate links: none on this page (stated in the article and footer).
+
+## Noom vs MyFitnessPal Price: Which Costs Less in 2026?
+
+https://wlreviews.github.io/noom-vs-myfitnesspal-price.html
+
+Status: published 2026-11-22. Full text live, about 2,125 words, 6 FAQs. Prices checked 22 November 2026 against the official pages.
+
+Short answer: Noom costs $209 a year; MyFitnessPal Premium costs $49.99 a year — about a quarter of the price. Monthly: $70 against $9.99. The $159 difference buys a coach and daily CBT lessons; MyFitnessPal is a tracker with Premium features. Both offer a 7-day trial.
+
+Verified facts (22 November 2026): Noom 12 plans $70–$209, monthly $70, 4-month $169 ($42.25 a month), annual $209 ($17.40 a month), all billed up front and auto-renewing, 7-day initial trial; MyFitnessPal Premium Annual $49.99 a year, Monthly $9.99 a month, 58% savings on the annual plan, free version with basic tracking, Premium adds barcode and voice logging, custom macros, ad-free, meal scan, intermittent fasting, food insights, no Premium+ on the page; MFP 7-day free trial for first-time users, first charge at trial end unless cancelled, auto-renew, cancel via Settings / App Store / Google Play. Arithmetic: $209 − $49.99 = $159.01; $49.99 ÷ $209 ≈ 24%; $70 − $9.99 = $60.01; 12 months monthly billing $840 vs $119.88, difference $720.12; $209 ÷ $49.99 = 4.18; $70 ÷ $9.99 = 7.01; $49.99 ÷ 12 = $4.17. MFP $49.99 verified by two live-browser reads; text crawls the same day showed $79.99 — a coherent stale set ($79.99/year, $19.99/month, 67%) matching the 20–21 November old prices (see proof-kb open-questions.md).
+
+Sections: The prices, side by side; The maths: $159 a year apart; What the extra $159 buys; What MyFitnessPal gives you for $49.99; Trials compared; Who should pay more, who should pay less; Our verdict; Frequently asked questions (6); Sources.
+
+Still to be verified (labelled in the article): Noom trial fee (if any) and whether the trial requires a card; exact cancellation steps for Noom; refund policy if you cancel a Noom plan mid-plan; how quickly a Noom coach replies and whether coaching is one-to-one; MyFitnessPal's $79.99 figure from text crawls showing the older prices.
+
+Affiliate links: none on this page (stated in the article and footer).
+
+## Noom for Beginners: Your First Week, Step by Step (2026)
+
+https://wlreviews.github.io/noom-for-beginners.html
+
+Status: published 2026-11-22. Full text live, about 2,134 words, 6 FAQs. Facts checked 22 November 2026 against Noom's official pages.
+
+Short answer: Start with three things: a daily 5–15 minute lesson, log everything you eat, and a coach who reads your log. Exercise starts at 200 steps a day. Plans from $70 a month, most people on the $169 4-month plan. No set meal plan, no food banned.
+
+Verified facts (22 November 2026): Noom is a behavior-change program built on cognitive behavioral therapy; daily lessons around 5–15 minutes covering triggers, emotional and stress eating, what to do instead of reaching for a snack, mindfulness, choosing foods, genuine hunger versus "head hunger", and plateaus; no willpower, no food restrictions; log everything after each meal and snack or at the end of the day; colors green/yellow/orange by calorie density, roughly 30/45/25, no food off limits, suggested daily allotment for each; weigh-in daily is an option, not a requirement; weight fluctuations are normal; exercise starts from 200 steps a day, food first, syncs with Apple Watch, Fitbit, and Garmin; recipe database of thousands with "how green" info and caloric range; coach trained in behavior-change science, looks at food log and suggests foods, included at no extra cost, check in once every couple of weeks or more often; group of Noomers for inspiration, advice, or to share wins; plan usually around 16 weeks; 12 plans $70–$209, all billed up front and auto-renewing; most Noom Weight users have a 4-month subscription; $42.25 a month on the 4-month plan, $17.40 a month on the annual plan; 7-day initial trial. The first-week day-by-day section is assembled from the parts Noom describes and is labelled as not one person's diary.
+
+Sections: What Noom is, in one paragraph; Your first week, day by day; The five things to learn first; What you need before you start; Three mistakes beginners make; Our verdict; Frequently asked questions (6); Sources.
+
+Still to be verified (labelled in the article): Noom trial fee (if any) and whether the trial requires a card; exact cancellation steps for Noom; refund policy if you cancel a Noom plan mid-plan; how quickly a Noom coach replies and whether coaching is one-to-one.
+
+Affiliate links: none on this page (stated in the article and footer).
+
+## Noom Diet Plan: What It Is (and What It Isn't) 2026
+
+https://wlreviews.github.io/noom-diet-plan.html
+
+Status: published 2026-11-22. Full text live, about 2,045 words, 6 FAQs. Facts checked 22 November 2026 against Noom's official pages.
+
+Short answer: Noom has no set meal plan. Instead you get a daily calorie range, a color system for every food, and a recipe database — plus a coach and daily CBT lessons. No food is off limits. Plans from $70 a month.
+
+Verified facts (22 November 2026): Noom does not give a set meal plan; the program works within a daily calorie range and the pages we checked do not state a number for it; colors green/yellow/orange by calorie density, roughly 30/45/25, suggested daily allotment for each, no food off limits, orange does not mean "bad" and colors do not mean "good" or "bad"; recipe database of thousands with "how green" info and caloric range; coach looks at food log and suggests foods, included at no extra cost; daily lessons around 5–15 minutes built on cognitive behavioral therapy, seven topics (triggers, emotional and stress eating, what to do instead of reaching for a snack, mindfulness, choosing foods, genuine hunger versus "head hunger", plateaus); no willpower, no food restrictions; log everything after each meal and snack or at end of day, tracker tells color of every food; weigh-in daily is an option, not a requirement; exercise from 200 steps a day, food first, the page's example is 200 steps, then 400, then 1,000; plan usually around 16 weeks; 12 plans $70–$209, all billed up front and auto-renewing; most Noom Weight users have a 4-month subscription; $42.25 a month on the 4-month plan, $17.40 a month on the annual plan; 7-day initial trial. The day-on-the-plan section is assembled from the parts Noom describes and is labelled as not one person's diary.
+
+Sections: What the Noom diet plan is; What it is not; A day on the Noom plan; The foods: green, yellow, orange; What it costs; Who it is for, who it is not for; Our verdict; Frequently asked questions (6); Sources.
+
+Still to be verified (labelled in the article): Noom trial fee (if any) and whether the trial requires a card; exact cancellation steps for Noom; refund policy if you cancel a Noom plan mid-plan; how quickly a Noom coach replies and whether coaching is one-to-one.
+
+Affiliate links: none on this page (stated in the article and footer).
+
+## Noom Daily Lessons: What You Learn Each Day 2026
+
+https://wlreviews.github.io/noom-daily-lessons.html
+
+Status: published 2026-11-23. Full text live, about 2,200 words, 6 FAQs. Facts checked 23 November 2026 against Noom's official pages.
+
+Short answer: Noom gives you a short lesson every day from day one. Each takes around 5–15 minutes, is built on cognitive behavioral therapy (CBT), and gives you exercises, quizzes or tasks to complete. The lessons cover seven things Noom says you will learn — your triggers, emotional and stress eating, what to do instead of snacking, mindfulness, choosing foods, genuine hunger versus "head hunger", and plateaus. They sit in the same app as your food log. A plan usually runs for around 16 weeks.
+
+Verified facts (23 November 2026): daily lessons from day 1, around 5–15 minutes (a second official page describes them as less than 15 minutes per day); each lesson gives exercises, quizzes or tasks to complete, plus insights into the root causes of eating habits; lessons based on cognitive behavioral therapy (CBT), described on the pages as the gold standard in behavioral science; seven topics you will learn (triggers, emotional and stress eating, what to do instead of reaching for a snack, mindfulness while eating, choosing foods, genuine hunger versus "head hunger", plateaus); lessons in the same app used to log food; plan usually around 16 weeks, but it can be more or less depending on your goal; log everything after each meal and snack or at the end of the day, tracker tells the color of every food; daily weigh-in is an option, not a requirement; coaches adapt to your needs, check in once every couple of weeks or more often; lessons included in every plan, $70 a month, $169 for 4 months, $209 a year; most Noom Weight users have a 4-month subscription; $42.25 a month on the 4-month plan, $17.40 a month on the annual plan; 7-day initial trial. The pages do not say which day covers which topic, what time of day to read the lesson, or in what order to do the day's parts — the article lists the seven topics as themes, not a syllabus, and does not invent a timetable.
+
+Sections: What a daily lesson is; What you learn: seven topics; How a lesson fits into your day; What the lessons do not do; Who the lessons suit, and who they do not suit; What the lessons cost; Our verdict; Frequently asked questions (6); Sources.
+
+Still to be verified (labelled in the article): which day covers which topic in the lesson sequence; whether you can re-read, skip, or catch up on a missed lesson; whether lessons continue after your plan ends; Noom trial fee (if any) and whether the trial requires a card; exact cancellation steps for Noom; refund policy if you cancel a Noom plan mid-plan; how quickly a Noom coach replies and whether coaching is one-to-one.
+
+Affiliate links: none on this page (stated in the article and footer).
+
+## Noom for Emotional Eaters: What the Lessons Teach 2026
+
+https://wlreviews.github.io/noom-for-emotional-eating.html
+
+Status: published 2026-11-23. Full text live, about 2,305 words, 6 FAQs. Facts checked 23 November 2026 against Noom's official pages.
+
+Short answer: Noom's lessons address emotional eating directly. Three of the seven things the program teaches speak to it — triggers, emotional and stress eating, and what to do instead of snacking. Two more support them: mindfulness, and telling genuine hunger from "head hunger". The lessons take around 5–15 minutes a day, are based on cognitive behavioral therapy (CBT), and sit in the same app as your food log. The lessons are not therapy. A plan usually runs for around 16 weeks.
+
+Verified facts (23 November 2026): three of the seven things you will learn speak directly to emotional eating (what triggers you to eat when you are not hungry, how to overcome emotional and stress eating, what to do instead of reaching for a snack when you do not feel good); two more support them (mindfulness while eating, telling genuine hunger from "head hunger"); Noom's list of who the program fits includes people who want to learn what to do besides reaching for food when they feel stressed, emotional, anxious, or bored, people who have tried weight-loss programs and not kept the weight off, and people who want a structured program with daily tasks; daily lessons from day 1, around 5–15 minutes (a second official page describes them as less than 15 minutes per day), exercises, quizzes or tasks to complete, insights into the root causes of eating habits; lessons based on CBT, described on the pages as the gold standard in behavioral science; coaches trained in the science behind behavior change, adapt to your needs, check in once every couple of weeks or more often, help when you hit a plateau; log everything after each meal and snack or at the end of the day, tracker tells the color of every food; daily weigh-in is an option, not a requirement, and daily weigh-ins help you see that small, temporary gains and losses are normal; lessons included in every plan, $70 a month, $169 for 4 months, $209 a year; most Noom Weight users have a 4-month subscription; $42.25 a month on the 4-month plan, $17.40 a month on the annual plan; 7-day initial trial; plan usually around 16 weeks. The pages do not say which day covers which topic, what time of day to read the lesson, or in what order to do the day's parts; the pages do not describe Noom as treatment for an eating disorder, and this guide does not present it as one.
+
+Sections: What Noom means by emotional eating; The three lessons that speak to it directly; The two supporting topics; How it works in a day; What the lessons do not do; Who it suits, and who it does not suit; What it costs; Our verdict; Frequently asked questions (6); Sources.
+
+Still to be verified (labelled in the article): which day covers which topic in the lesson sequence; how long each topic takes; whether lessons continue after your plan ends; Noom trial fee (if any) and whether the trial requires a card; exact cancellation steps for Noom; refund policy if you cancel a Noom plan mid-plan; how quickly a Noom coach replies and whether coaching is one-to-one.
+
+Affiliate links: none on this page (stated in the article and footer).
+
+## Noom for Busy Professionals: What It Asks of You 2026
+
+https://wlreviews.github.io/noom-for-busy-professionals.html
+
+Status: published 2026-11-23. Full text live, about 2,124 words, 6 FAQs. Facts checked 23 November 2026 against Noom's official pages.
+
+Short answer: Noom asks a busy person for four things a day: a lesson of around 5–15 minutes, logging everything you eat after each meal or at the end of the day, a daily weigh-in if you want one, and movement starting at 200 steps. The lessons and the log live in the same app, and the coach checks in once every couple of weeks, or more often if you are struggling. The pages do not prescribe a time of day for any of it. A plan usually runs for around 16 weeks.
+
+Verified facts (23 November 2026): one timed daily commitment — the lesson, around 5–15 minutes (a second official page describes the lessons as less than 15 minutes per day); the sign-up questions take about 10 minutes, once; lessons from day 1, based on cognitive behavioral therapy (CBT); log everything after each meal and snack, or at the end of the day — your choice; the tracker tells the color of every food you log; the coach can look at your food log and suggest different foods to try; coaches adapt to your needs, check in once every couple of weeks or more often if you are struggling; daily weigh-in is an option, not a requirement, and daily weigh-ins help you see that small, temporary gains and losses are normal; exercise is encouraged but not required, starting at 200 steps a day — the page's example is 200 steps, then 400, then 1,000, an example of building up, not a prescribed ladder; Noom syncs with Apple Watch, Fitbit, and Garmin; the pages do not prescribe a time of day for the lesson, the log, or the weigh-in; plan usually around 16 weeks, but it can be more or less depending on your goal; most Noom Weight users have a 4-month subscription; lessons included in every plan, $70 a month, $169 for 4 months, $209 a year; $42.25 a month on the 4-month plan, $17.40 a month on the annual plan; 7-day initial trial. The pages do not say how long logging takes, how long a weigh-in takes, how much time the coach takes, whether lessons work offline, whether you can re-read, skip, or catch up on a missed lesson, or how quickly a coach replies.
+
+Sections: What a day asks of you, in minutes; The flexible parts; The parts that do not flex; What the pages do not tell a busy reader; Who it suits, and who it does not suit; What it costs; Our verdict; Frequently asked questions (6); Sources.
+
+Still to be verified (labelled in the article): how long food logging takes per meal; whether lessons work offline; whether you can re-read, skip, or catch up on a missed lesson; whether lessons continue after your plan ends; how quickly a Noom coach replies and whether coaching is one-to-one; Noom trial fee (if any) and whether the trial requires a card; exact cancellation steps for Noom; refund policy if you cancel a Noom plan mid-plan.
+
+Affiliate links: none on this page (stated in the article and footer).
+
+## Noom for People Who Have Tried Diets Before 2026
+
+https://wlreviews.github.io/noom-for-people-who-tried-diets.html
+
+Status: published 2026-11-23. Full text live, about 2,087 words, 6 FAQs. Facts checked 23 November 2026 against Noom's official pages.
+
+Short answer: Noom's answer to past diets is not another set of rules. It is a different approach: daily lessons built on cognitive behavioral therapy (CBT), a coach, and a color system for food — no food off limits, no willpower, no set meal plan. The lessons teach you the why behind how you eat: triggers, emotional and stress eating, and what to do instead of snacking. Noom says the program usually runs for around 16 weeks, and the pages give no outcome figures for people who have tried diets before.
+
+Verified facts (23 November 2026): the pages' "Is Noom right for you?" list names people who have tried weight-loss programs in the past but have not been able to keep the weight off, people who want a different approach to weight loss that is sustainable and will lead to lasting change, and people who want a more structured program with daily tasks, challenges and lessons to keep them on track; a second official page adds that the program aims to help you sustain the healthy habits you develop and avoid yo-yo dieting; daily lessons from day 1, around 5–15 minutes, exercises, quizzes or tasks to complete, based on CBT; seven topics you will learn (triggers, emotional and stress eating, what to do instead of reaching for a snack, mindfulness while eating, choosing foods, genuine hunger versus "head hunger", plateaus); no willpower, no food restrictions; colors green/yellow/orange by calorie density, roughly 30/45/25, no food off limits; no set meal plan — daily calorie range, color system, recipe database, coach; coach can look at your food log and suggest different foods, checks in once every couple of weeks or more often if you are struggling, helps when you hit a plateau; log everything after each meal and snack or at the end of the day; daily weigh-in is an option, not a requirement; lessons, coach, and colors included in every plan, $70 a month, $169 for 4 months, $209 a year; most Noom Weight users have a 4-month subscription; $42.25 a month on the 4-month plan, $17.40 a month on the annual plan; 7-day initial trial; plan usually around 16 weeks. The pages give no outcome figures for people who have tried diets before, compare no success rates with other programs, describe no separate track for repeat dieters, say nothing about why past diets stopped working, and do not describe Noom as a quick fix.
+
+Sections: What "tried diets before" means on Noom's pages; What is different; What is the same; What the pages do not say; Who it suits, and who it does not suit; What it costs; Our verdict; Frequently asked questions (6); Sources.
+
+Still to be verified (labelled in the article): outcome figures for people who have tried diets before; any comparison of Noom results with other programs; whether the lessons differ in any way for people who have tried diets before; Noom trial fee (if any) and whether the trial requires a card; exact cancellation steps for Noom; refund policy if you cancel a Noom plan mid-plan; how quickly a Noom coach replies and whether coaching is one-to-one.
+
+Affiliate links: none on this page (stated in the article and footer).
+
+## Noom for Vegetarians: How the Colors Work 2026
+
+https://wlreviews.github.io/noom-for-vegetarians.html
+
+Status: published 2026-11-23. Full text live, about 1,958 words, 6 FAQs. Facts checked 23 November 2026 against Noom's official pages.
+
+Short answer: Noom works the same way for vegetarians. The color system sorts food by calorie density, not by whether it comes from animals: green foods include vegetables and whole grains, yellow includes starches and healthy fats, and orange is the highest density. No food is off limits, and there is no separate vegetarian plan — the lessons, the coach, and the log are the same for everyone. The pages do not list a vegetarian meal plan, and Noom gives no separate price for vegetarians.
+
+Verified facts (23 November 2026): the pages do not use the word "vegetarian" in the passages checked; they say the program works the same way whether you are vegan, following a low-carb or keto diet, or are an intermittent faster; colors sort food by calorie density — green is the lowest, yellow is higher, orange is the highest, and orange does not mean "bad"; green is about 30% (vegetables, whole grains), yellow is about 45% (lean meats, starches, healthy fats like avocados and legumes), orange is about 25% (cheeseburgers, desserts); the tracker tells you the color of every food you log; Noom has a database of thousands of recipes with "how green" information; daily lessons from day 1, around 5–15 minutes, exercises, quizzes or tasks to complete, based on CBT; seven topics you will learn (triggers, emotional and stress eating, what to do instead of reaching for a snack, mindfulness while eating, choosing foods, genuine hunger versus "head hunger", plateaus); no willpower, no food restrictions; no set meal plan — daily calorie range, color system, recipe database, coach; coach can look at your food log and suggest different foods, checks in once every couple of weeks or more often if you are struggling, helps when you hit a plateau; log everything after each meal and snack or at the end of the day; daily weigh-in is an option, not a requirement; lessons, coach, and colors included in every plan, $70 a month, $169 for 4 months, $209 a year; most Noom Weight users have a 4-month subscription; $42.25 a month on the 4-month plan, $17.40 a month on the annual plan; 7-day initial trial; plan usually around 16 weeks. The pages do not name the colors of tofu, lentils, eggs, or cheese on its own, do not say whether the recipe database filters for vegetarian recipes, do not say whether the coach suggests vegetarian foods specifically, and describe no separate vegetarian plan or vegetarian version of the lessons.
+
+Sections: What the pages actually say; How the colors work for a vegetarian plate; What does not change; What the pages do not say; Who it suits, and who it does not suit; What it costs; Our verdict; Frequently asked questions (6); Sources.
+
+Still to be verified (labelled in the article): whether the recipe database filters for vegetarian recipes; whether the coach suggests vegetarian foods specifically; the colors of vegetarian staples the pages do not name (tofu, lentils, eggs, cheese on its own); Noom trial fee (if any) and whether the trial requires a card; exact cancellation steps for Noom; refund policy if you cancel a Noom plan mid-plan; how quickly a Noom coach replies and whether coaching is one-to-one.
+
+Affiliate links: none on this page (stated in the article and footer).
+
+## Noom vs WeightWatchers Cost: Which Is Cheaper? 2026
+
+https://wlreviews.github.io/noom-vs-weightwatchers-cost.html
+
+Status: published 2026-11-27. Full text live, about 2,207 words, 6 FAQs. Facts checked 27 November 2026 against Noom's and WeightWatchers' official pages.
+
+Short answer: WeightWatchers Core is cheaper than Noom on price: $5 for the first month, then $10 a month on a 12-month plan, $115 in the first year, against Noom's $209 a year. Core auto-renews yearly at $10 a month ($120 a year). Noom's cheapest monthly average is $17.40 a month on its annual plan, and $42.25 a month on the 4-month plan most users take. But the prices buy different things: Noom includes daily CBT lessons, a coach, and the color system; WeightWatchers Core is built on the Points system, with nutrition guidance and recipes and a two-week trial of Workshops. The Core+ plan is $10 for the first month, then $20 a month, with the offer ending 4 December 2026 and auto-renewal at $20 a month.
+
+Verified facts (27 November 2026): Noom $70 a month, $169 for 4 months, $209 a year; $17.40 a month on the annual plan and $42.25 a month on the 4-month plan, both as Noom states; 7-day initial trial; plan usually around 16 weeks; most Noom Weight users have a 4-month subscription; daily CBT lessons around 5–15 minutes from day 1; coach can look at your food log and suggest different foods, checks in once every couple of weeks or more often; colors green/yellow/orange roughly 30/45/25, no food off limits; no set meal plan; log everything; daily weigh-in is an option; plans prepaid and auto-renew. WeightWatchers Core $5 a month for the first month, then $10 a month on a 12-month plan, auto-renews yearly at $10 a month; Core+ $10 a month for the first month, then $20 a month, auto-renews yearly at $20 a month; both offers end 4 December 2026 (Black Friday offer; previous offer ended 26 November 2026); the page banner reads "BLACK FRIDAY SALE: Plans start at just $5 for your first month!"; Med+ $25 a month for the first three months, then $74 a month standard price; Core is built on the Points system; nutrition guidance and recipes including a recipe library of over 12,000 recipes (checked 20 November 2026); Core includes a two-week trial of Workshops when you purchase a Core membership; unlimited Workshops and unlimited Fitness Content are Core+ features, not Core.
+
+Arithmetic (all our calculations, shown in the article): $5 + 11 × $10 = $115 in the first year; $209 − $115 = $94 a year; $5 + 3 × $10 = $35 for four months; $169 − $35 = $134; 12 × $10 = $120 a year on renewal; $209 − $120 = $89 a year; $70 ÷ $10 = 7; $17.40 − $10 = $7.40 a month; $10 + 11 × $20 = $230 in the first year; $230 − $209 = $21 a year; 12 × $20 = $240 a year on renewal; $240 − $209 = $31 a year.
+
+Sections: The numbers side by side (table); The same four months, and the same year; What each price buys; Renewals and trials; Who it suits, and who it does not suit; What it costs; Our verdict; Frequently asked questions (6); Sources.
+
+Still to be verified (labelled in the article): whether WeightWatchers Core includes access to Registered Dietitians; whether the Core plan itself has a free trial; Noom trial fee (if any) and whether the trial requires a card; exact cancellation steps for Noom; refund policy if you cancel a Noom plan mid-plan; how quickly a Noom coach replies and whether coaching is one-to-one.
+
+Affiliate links: none on this page (stated in the article and footer).
+
+## Noom vs MyFitnessPal: Free Trial and Features Compared 2026
+
+https://wlreviews.github.io/noom-vs-myfitnesspal-free-trial.html
+
+Status: published 2026-11-23. Full text live, about 2,299 words, 6 FAQs. Facts checked 23 November 2026 against Noom's and MyFitnessPal's official pages.
+
+Short answer: Both trials last 7 days, and they work differently. Noom's 7-day initial trial starts your plan — daily CBT lessons, a coach, and the color system — and Noom calls it "no risk", but the pages do not say whether it costs anything or requires a card. MyFitnessPal's 7-day free trial gives first-time users Premium, and it auto-renews and charges your card when it ends unless you cancel first. Noom costs $70 a month, $169 for 4 months, or $209 a year; MyFitnessPal Premium costs $9.99 a month or $49.99 a year. For adults 18 and over only.
+
+Verified facts (23 November 2026): Noom 7-day initial trial, called "no risk", starts the plan; daily CBT lessons around 5–15 minutes from day 1; coach can look at your food log and suggest different foods, checks in once every couple of weeks or more often; colors green/yellow/orange roughly 30/45/25, no food off limits; log everything; daily weigh-in is an option; recipe database of thousands with "how green" information; $70 a month, $169 for 4 months, $209 a year; most Noom Weight users have a 4-month subscription; plans prepaid and auto-renew. MyFitnessPal 7-day free trial only for people who have never upgraded to Premium and never started a Premium trial (checked live 22 November 2026); trial ends with the first payment charged to the card unless cancelled first, auto-renews, cancel in Settings or in the App Store or Google Play settings, Premium kept until the end of the current period (checked live 22 November 2026); Premium adds barcode scan and meal scan, voice log, macro tracking with custom goals, ad-free logging, intermittent fasting, and food insights and comparison; the free account already includes nutrition and weight tracking and exercise tracking (checked 23 November 2026); Premium $9.99 a month or $49.99 a year (checked live 22 November 2026). MyFitnessPal describes Premium as "like having a dietitian and trainer at your fingertips" — marketing language, not a coaching service.
+
+MyFitnessPal prices: a text crawl on 23 November 2026 showed $79.99 a year, an older cached figure (third such crawl; the first two were 22 November 2026 at 02:31 and 03:50 UTC); the live page checked on 22 November 2026 showed $49.99 a year and $9.99 a month. If the live page shows $79.99 again, treat the price as unstable and record both readings with their times.
+
+Sections: The two trials side by side (table); What the Noom trial gives you; What the MyFitnessPal trial gives you; Features compared (table); What it costs after the trial; Who it suits, and who it does not suit; Our verdict; Frequently asked questions (6); Sources.
+
+Still to be verified (labelled in the article): whether the Noom trial costs anything and whether it requires a card; the exact cancellation steps for Noom; the refund policy if you cancel a Noom plan mid-plan; whether the Noom app scans barcodes; how quickly a Noom coach replies and whether coaching is one-to-one; MyFitnessPal prices (see the note above).
 
 Affiliate links: none on this page (stated in the article and footer).
 
